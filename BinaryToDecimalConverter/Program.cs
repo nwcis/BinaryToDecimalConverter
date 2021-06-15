@@ -5,6 +5,9 @@ namespace BinaryToDecimalConverter
 {
     class Program
     {
+        // TO DO 
+        // Add support for decimal binary values
+
         static void Main(string[] args)
         {
             // Launch the calculation tool
