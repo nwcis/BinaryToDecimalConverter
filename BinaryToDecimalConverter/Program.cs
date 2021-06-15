@@ -8,6 +8,12 @@ namespace BinaryToDecimalConverter
         // TO DO 
         // Add support for decimal binary values
         // Add support for application loops
+        // Add session history
+        // Add Export?
+        // -> Perhaps to PDF, CSV, or something of the like
+
+        // FUTURE
+        // Turn into a library that can be used on a website to create an online tool
 
         static void Main(string[] args)
         {
