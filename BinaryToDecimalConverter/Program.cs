@@ -7,6 +7,9 @@ namespace BinaryToDecimalConverter
     {
         // TO DO 
         // Add support for decimal binary values
+        //
+        //
+        //
 
         static void Main(string[] args)
         {
